@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MoneyBall</string>
+    <string name="default_text">Default text</string>
+    <string name="upload">Upload Picture</string>
+    <string name="exit">Exit</string>
+    <string name="done">Done</string>
+    <string name="watch_dares">WATCH DARES</string>
 </resources>

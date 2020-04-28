@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+
+    <item
+        android:id="@+id/stats"
+        android:title="stats"
+        android:icon="@mipmap/big_logo"
+        app:showAsAction="always"></item>
+
+    <item
+        android:id="@+id/profile"
+        android:title="profile"
+        android:icon="@drawable/human_dude"
+        app:showAsAction="always"></item>
+
+<!--    <item-->
+<!--        android:id="@+id/someID5"-->
+<!--        android:title="Beak"-->
+<!--        android:icon="@drawable/money"-->
+<!--        app:showAsAction="false">-->
+<!--    </item>-->
+    </menu>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "102551872005",
+    "firebase_url": "https://moneyball-ed0ec.firebaseio.com",
+    "project_id": "moneyball-ed0ec",
+    "storage_bucket": "moneyball-ed0ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102551872005:android:c43709d8fb2e625335f26c",
+        "android_client_info": {
+          "package_name": "com.example.moneyball"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102551872005-fc2r265mdr7aq7g8psgh0nfpgh5m92dj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwixCF332IWJtlHkVlQ9zfUgmMhed5ja0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102551872005-fc2r265mdr7aq7g8psgh0nfpgh5m92dj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
